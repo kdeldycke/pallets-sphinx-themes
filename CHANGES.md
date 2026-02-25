@@ -1,12 +1,17 @@
+## Version 2.5.0
+
+Released 2026-02-25
+
+- Use Atkinson Hyperlegible font.
+- Click theme does not use monospace font for body.
+- Use local font files instead of Google Fonts.
+
 ## Version 2.4.0
 
 Released 2026-02-25
 
 - Fix compatibility with Sphinx >= 9.0. :issue:`128`
 - Require Sphinx >= 7.3. :issue:`128`
-- Use Atkinson Hyperlegible font.
-- Click theme does not use monospace font for body.
-- Use local font files instead of Google Fonts.
 
 ## Version 2.3.0
 
