@@ -1,6 +1,6 @@
 ## Version 2.4.0
 
-Unreleased
+Released 2026-02-25
 
 - Fix compatibility with Sphinx >= 9.0. :issue:`128`
 - Require Sphinx >= 7.3. :issue:`128`
